@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6FF&height=220&section=header&text=Prajwal%20Kabbur&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h2 align="center">Java Full Stack Developer | 2+ Years Experience</h2>
+<h2 align="center">Java Full Stack Developer | 3 Years Experience</h2>
 <p align="center">🚀 Building scalable backend systems & clean full-stack applications</p>
 
 ---
@@ -24,10 +24,10 @@
 
 ### 💻 Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot\&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### 🌐 Frontend
@@ -55,21 +55,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRAJWAL-KABBUR&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJWAL-KABBUR&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-kabbur&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kabbur&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAJWAL-KABBUR&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=prajwal-kabbur&theme=tokyonight"/>
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRAJWAL-KABBUR&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-kabbur&theme=onedark&no-frame=true&row=1"/>
 </p>
+
 
 ---
 
