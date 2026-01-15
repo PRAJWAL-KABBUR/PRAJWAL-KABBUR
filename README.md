@@ -11,9 +11,9 @@
 
 ## 👋 About Me
 
-* 💼 Java Full Stack Developer with **2+ years of professional experience**
+* 💼 Java Full Stack Developer with **3 years of professional experience**
 * 🔧 Strong in **Java, Spring Boot, REST APIs, Microservices**
-* 🌐 Frontend experience with **HTML, CSS, JavaScript**
+* 🌐 Frontend experience with **HTML, CSS, JavaScript, Angular**
 * ☁️ Familiar with **AWS, Docker, CI/CD pipelines**
 * 🧠 Interested in **System Design, Backend Performance & Clean Code**
 * 🌱 Always learning and improving engineering best practices
